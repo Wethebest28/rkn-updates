@@ -12,6 +12,32 @@
   }
  },
  {
+  "id": "2026-10-01-dubai-9m-sales-record",
+  "date": "2026-10-01",
+  "cat": "market",
+  "impact": "positive",
+  "area": "Dubai",
+  "title": "Dubai property deals reach AED 574 bn in the first nine months of 2026",
+  "body": "Dubai Land Department data shows 165,018 transactions worth AED 574.12 bn from January to September 2026, including AED 379.4 bn of sales, the second-highest nine-month sales value on record. September alone saw AED 50.78 bn across 16,490 deals, and Business Bay was the top-selling area at over AED 20 bn.",
+  "source": {
+   "name": "Emirates 24|7 (Dubai Land Department data)",
+   "url": "https://www.emirates247.com/business/dubai-real-estate-transactions-hit-dh574-billion-in-nine-months-second-highest-sales-value-in-market-history/6205"
+  }
+ },
+ {
+  "id": "2026-10-01-pink-line-safety-inspection",
+  "date": "2026-10-01",
+  "cat": "metro",
+  "impact": "positive",
+  "area": "Bannerghatta Road, Bengaluru",
+  "title": "Namma Metro Pink Line: safety inspection of first 7.5 km set for 6–8 October",
+  "body": "The metro safety commissioner is due to inspect the elevated stretch from Kalena Agrahara to Tavarekere along Bannerghatta Road, with six stations: Kalena Agrahara, Hulimavu, IIMB, JP Nagar 4th Phase, Jayadeva Hospital and Tavarekere. Passenger service can start only after clearance, so mid-October is the earliest possible opening; earlier deadlines have slipped several times.",
+  "source": {
+   "name": "Deccan Herald",
+   "url": "https://www.deccanherald.com/amp/story/india/karnataka/bengaluru/bengaluru-namma-metros-elevated-pink-line-set-for-safety-inspection-from-october-6-8-4167298"
+  }
+ },
+ {
   "id": "2026-09-30-etihad-rail-launch",
   "date": "2026-09-30",
   "cat": "metro",
@@ -25,6 +51,20 @@
   }
  },
  {
+  "id": "2026-09-25-prestige-parklane-launch",
+  "date": "2026-09-25",
+  "cat": "launch",
+  "impact": "neutral",
+  "area": "Devanahalli (STRR), Bengaluru",
+  "project": "Prestige Parklane",
+  "title": "Prestige launches Prestige Parklane on STRR, Devanahalli",
+  "body": "1,788 homes (1, 2 and 3 BHK) across nine towers on 11.91 acres, with about 1.7 million sq ft of saleable area and an estimated development value of ₹1,750 crore. Confirm the K-RERA number and current price list with Prestige before sharing with clients.",
+  "source": {
+   "name": "JM Financial Services",
+   "url": "https://www.jmfinancialservices.in/market-news-and-insights/1734003"
+  }
+ },
+ {
   "id": "2026-09-08-metro-station-renames",
   "date": "2026-09-08",
   "cat": "metro",
@@ -35,6 +75,33 @@
   "source": {
    "name": "Gulf News",
    "url": "https://gulfnews.com/living-in-uae/transport/dubai-metro-stations-renamed-full-list-1.500065961"
+  }
+ },
+ {
+  "id": "2026-06-09-godrej-vanantara-sales",
+  "date": "2026-06-09",
+  "cat": "launch",
+  "impact": "positive",
+  "area": "Off Bannerghatta Road, Bengaluru",
+  "project": "Godrej Vanantara",
+  "title": "Godrej Vanantara sold over ₹2,000 crore in its launch week",
+  "body": "Godrej Properties reported more than 1,000 homes sold in the first week of June 2026 at its 36-acre project off Bannerghatta Road, one of the strongest launches in South Bengaluru.",
+  "source": {
+   "name": "Business Standard",
+   "url": "https://www.business-standard.com/markets/capital-market-news/godrej-properties-successfully-launches-godrej-vanantara-in-bengaluru-126060900707_1.html"
+  }
+ },
+ {
+  "id": "2026-04-29-dubai-investor-visa-no-minimum",
+  "date": "2026-04-29",
+  "cat": "law",
+  "impact": "positive",
+  "area": "Dubai",
+  "title": "Dubai 2-year investor visa: no minimum property value for sole owners",
+  "body": "Dubai Land Department removed the earlier AED 750,000 minimum for the two-year property investor residence visa when the property has a single owner. For joint ownership, each owner's share must be worth at least AED 400,000. The 10-year Golden Visa still needs AED 2 million in property.",
+  "source": {
+   "name": "Gulf News",
+   "url": "https://gulfnews.com/business/property/dubai-scraps-minimum-property-value-for-solo-investor-visas-sets-joint-ownership-floor-what-it-means-1.500523065"
   }
  },
  {
@@ -64,6 +131,19 @@
   }
  },
  {
+  "id": "2026-03-12-dubai-shared-housing-law",
+  "date": "2026-03-12",
+  "cat": "law",
+  "impact": "caution",
+  "area": "Dubai",
+  "title": "Dubai shared housing law: a permit is now needed to share or sub-let units",
+  "body": "Law No. 4 of 2026 requires a Dubai Municipality permit before any property is used for shared housing, with contracts handled through the Dubai Land Department's registry. It takes effect 180 days after publication in the Official Gazette, existing operators get one year to comply, and fines run from AED 500 to AED 500,000 (up to AED 1 million for repeat violations).",
+  "source": {
+   "name": "Gulf News",
+   "url": "https://gulfnews.com/living-in-uae/housing/dubais-new-shared-housing-law-a-complete-guide-for-residents-and-owners-1.500472181"
+  }
+ },
+ {
   "id": "2026-02-dubai-loop-construction",
   "date": "2026-02-01",
   "cat": "infra",
@@ -74,6 +154,19 @@
   "source": {
    "name": "Wikipedia (Dubai Loop)",
    "url": "https://en.wikipedia.org/wiki/Dubai_Loop"
+  }
+ },
+ {
+  "id": "2026-01-12-krera-audit-penalties",
+  "date": "2026-01-12",
+  "cat": "law",
+  "impact": "caution",
+  "area": "Karnataka",
+  "title": "K-RERA fines builders who skip annual audit reports",
+  "body": "Every promoter must file a CA-certified annual audit report for each registered project. K-RERA charges yearly penalties from ₹20,000 (projects up to ₹25 crore) to ₹1 lakh (above ₹100 crore) for missing reports, with action on 2023-24 defaulters from 1 April 2026. Check a project's filings on the K-RERA portal before recommending it.",
+  "source": {
+   "name": "The Hans India",
+   "url": "https://www.thehansindia.com/news/cities/bengaluru/k-rera-to-penalise-non-compliant-builders-1038926"
   }
  }
 ]
