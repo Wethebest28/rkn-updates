@@ -1,0 +1,79 @@
+[
+ {
+  "id": "2026-10-01-live-updates",
+  "date": "2026-10-01",
+  "cat": "rkn",
+  "impact": "neutral",
+  "title": "Live updates are switched on in RKN Suite",
+  "body": "This tab now shows verified changes to prices, launches, handovers, metro lines and rules. Each item links to its official source and is reviewed by RKN before it appears.",
+  "source": {
+   "name": "RKN Suite release notes",
+   "url": "https://github.com/"
+  }
+ },
+ {
+  "id": "2026-09-30-etihad-rail-launch",
+  "date": "2026-09-30",
+  "cat": "metro",
+  "impact": "positive",
+  "area": "Dubai South / Al Yalayis",
+  "title": "Etihad Rail passenger service formally launched",
+  "body": "Formal launch on 30 Sep 2026 after the introductory phase from 30 Jun. Dubai's station is at Al Yalayis; Abu Dhabi to Dubai takes about 57 minutes. Al Dhafra stations follow by 30 Dec 2026 and Sharjah by 30 Mar 2027.",
+  "source": {
+   "name": "MEED",
+   "url": "https://www.meed.com/etihad-rail-to-begin-passenger-rail-operations-from-30-june"
+  }
+ },
+ {
+  "id": "2026-09-08-metro-station-renames",
+  "date": "2026-09-08",
+  "cat": "metro",
+  "impact": "neutral",
+  "title": "Seven Dubai Metro stations now go by new names",
+  "body": "Under RTA's naming-rights programme, Onpassive is becoming Garmin, and recent renames include UAE Exchange to Life Pharmacy, Jabal Ali to National Paints, Al Khail to Al Fardan Exchange, GGICO to Al Garhoud, Mashreq to Insurance Market and Al Fahidi to Sharaf DG. RKN Suite 2.15.0 shows both the new and old names.",
+  "area": "Dubai",
+  "source": {
+   "name": "Gulf News",
+   "url": "https://gulfnews.com/living-in-uae/transport/dubai-metro-stations-renamed-full-list-1.500065961"
+  }
+ },
+ {
+  "id": "2026-04-22-gold-line-approved",
+  "date": "2026-04-22",
+  "cat": "metro",
+  "impact": "positive",
+  "title": "Dubai Metro Gold Line approved: 42 km, 18 stations, opening 2032",
+  "body": "The Ruler of Dubai approved the fully underground Gold Line from Al Ghubaiba to Jumeirah Golf Estates, via Mina Rashid, City Walk, Business Bay, MBR City, Nad Al Sheba, Meydan, Al Barsha South and JVC. Cost is about AED 34 bn, with a target opening of 9 September 2032.",
+  "area": "Business Bay, Meydan, JVC, Jumeirah Golf Estates",
+  "source": {
+   "name": "Dubai Media Office",
+   "url": "https://dmo.dof.gov.ae/en/news-and-publications/latest-press-releases/the-ruler-of-dubai-approves-dubai-metro-s-gold-line-spanning-42-km-and-18-stations/"
+  }
+ },
+ {
+  "id": "2026-04-22-airport-express-line",
+  "date": "2026-04-22",
+  "cat": "metro",
+  "impact": "positive",
+  "area": "Al Jaddaf · JVC · Dubai South",
+  "title": "RTA invites designers for the DXB–DWC Airport Express Line",
+  "body": "A planned ~55 km express link from DXB via Al Jaddaf, Al Khail Road and JVC to Al Maktoum International, with five stations offering airline check-in and bag drop. Still at design stage.",
+  "source": {
+   "name": "Gulf Business",
+   "url": "https://gulfbusiness.com/en/2026/transport/dubais-new-metro-line-to-connect-the-two-airports-heres-what-we-know/"
+  }
+ },
+ {
+  "id": "2026-02-dubai-loop-construction",
+  "date": "2026-02-01",
+  "cat": "infra",
+  "impact": "positive",
+  "area": "DIFC · Downtown",
+  "title": "Dubai Loop tunnel construction begins",
+  "body": "Phase 1 is a 6.4 km tunnel with four stations from DIFC to Burj Khalifa / Dubai Mall, cutting the trip from about 20 to 3 minutes. Phase 1 is expected to open in 2027.",
+  "source": {
+   "name": "Wikipedia (Dubai Loop)",
+   "url": "https://en.wikipedia.org/wiki/Dubai_Loop"
+  }
+ }
+]
